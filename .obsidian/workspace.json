@@ -11,14 +11,12 @@
             "id": "914d1bc10e559287",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "image",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Images/Lab-Cover.png"
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-image",
+              "title": "Lab-Cover"
             }
           }
         ]
@@ -156,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Images/Lab-Cover.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Lab-Cover"
             }
           },
           {
@@ -204,9 +203,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "914d1bc10e559287",
+  "active": "71230346fe056fc1",
   "lastOpenFiles": [
+    "Images/Week-03-Cover.png",
     "Week-03-Lab-sheet-03-LDR-and-calibration.md",
+    "Images/Lab-Cover.png",
     "Week-03.md",
     "Images/Add_Scatter_Chart.png",
     "Pasted image 20260713013048.png",
@@ -218,8 +219,6 @@
     "Gemini_Generated_Image_bahsrjbahsrjbahs 1.png",
     "Images/LDR_and_R10k.png",
     "Week-03-04-Sensor-vs-Transducer.md",
-    "Images/Large_noise_Small_signal.png",
-    "Images/Good_Signal_Before_ADC.png",
     "Week-03-03-Physical to Electrical to Digital.md",
     "Week-03-01_Physical_World.md",
     "Week-03-02-Digital-World.md",

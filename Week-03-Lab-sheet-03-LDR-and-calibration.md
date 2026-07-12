@@ -1,5 +1,7 @@
 # 📝 **ใบงานปฏิบัติการ: การใช้งาน LDR และการทำ Calibration**
 
+
+![](Images/Lab-Cover.png)
 ## **วัตถุประสงค์ของใบงาน**
 
 1. เข้าใจหลักการทำงานของ LDR (Light Dependent Resistor)

@@ -1,3 +1,5 @@
+
+![](Images/Week-03-Cover.png)
 ## เนื้อหา
 ### [Week-03-01_Physical_World](Week-03-01_Physical_World.md)
 
