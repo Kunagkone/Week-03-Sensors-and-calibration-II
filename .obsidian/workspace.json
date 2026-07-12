@@ -11,12 +11,14 @@
             "id": "914d1bc10e559287",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Large_noise_Small_signal.png"
+                "file": "Week-03.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Large_noise_Small_signal"
+              "icon": "lucide-file",
+              "title": "Week-03"
             }
           }
         ]
@@ -203,13 +205,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "71230346fe056fc1",
+  "active": "914d1bc10e559287",
   "lastOpenFiles": [
+    "Images/Large_noise_Small_signal.png",
     "Images/Good_Signal_Before_ADC.png",
     "Images/ADC_Limitation.png",
     "Images/Small_Signal_Larger_noise.png",
     "Week-03-05-Signal-Integrity.md",
-    "Images/Large_noise_Small_signal.png",
     "Images/Sensor_Stage.png",
     "Images/Demage_Signal_Integrity.png",
     "Images/Crosstalk.png",

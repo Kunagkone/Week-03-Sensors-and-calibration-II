@@ -4,4 +4,6 @@
 
 ## [Week-03-03-Physical to Electrical to Digital](Week-03-03-Physical%20to%20Electrical%20to%20Digital.md)
 
+## [Week-03-04-Sensor-vs-Transducer](Week-03-04-Sensor-vs-Transducer.md)
 
+## [Week-03-05-Signal-Integrity](Week-03-05-Signal-Integrity.md)
