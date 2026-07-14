@@ -11,14 +11,14 @@
             "id": "914d1bc10e559287",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "ESP-32LAB/EPS32.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "EPS32"
             }
           }
         ]
@@ -205,8 +205,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "914d1bc10e559287",
+  "active": "71230346fe056fc1",
   "lastOpenFiles": [
+    "README.md",
     "ESP-32LAB/EPS32.md",
     "67030037/Week-03-Lab-sheet-03-LDR-and-calibration 1.md",
     "ESP-32LAB/sdsdsd.c",
@@ -220,7 +221,6 @@
     "Week-03-02-Digital-World.md",
     "Week-03-03-Physical to Electrical to Digital.md",
     "Week-03-05-Signal-Integrity.md",
-    "README.md",
     "Images/Lab-Cover.png",
     "Images/Week-03-Cover.png",
     "Images/Add_Scatter_Chart.png",
