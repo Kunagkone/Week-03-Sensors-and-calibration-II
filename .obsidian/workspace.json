@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "67030037/Week-03-Lab-sheet-03-LDR-and-calibration 1.md",
+                "file": "67030037/homework67030037.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week-03-Lab-sheet-03-LDR-and-calibration 1"
+              "title": "homework67030037"
             }
           }
         ]
@@ -207,7 +207,10 @@
   },
   "active": "914d1bc10e559287",
   "lastOpenFiles": [
+    "67030037/Week-03-Lab-sheet-03-LDR-and-calibration 1.md",
+    "67030037/homework67030037.md",
     "ESP-32LAB/EPS32.md",
+    "67030037/Untitled",
     "ESP-32LAB/LABESP32week3/build/LABESP32week3.bin",
     "ESP-32LAB/LABESP32week3/build/LABESP32week3.elf",
     "ESP-32LAB/LABESP32week3/build/LABESP32week3.map",
@@ -217,10 +220,8 @@
     "ESP-32LAB/LABESP32week3/build/esp-idf/esp_system/ld/sections.ld",
     "ESP-32LAB/LABESP32week3/build/bootloader-prefix/src/bootloader-stamp/bootloader-done",
     "ESP-32LAB/LABESP32week3/build/CMakeFiles/bootloader-complete",
-    "ESP-32LAB/LABESP32week3/build/bootloader/bootloader.bin",
     "Week-03-Lab-sheet-03-LDR-and-calibration.md",
     "README.md",
-    "67030037/Week-03-Lab-sheet-03-LDR-and-calibration 1.md",
     "ESP-32LAB/sdsdsd.md",
     "67030037/homework 67030037.md",
     "Week-03-04-Sensor-vs-Transducer.md",
