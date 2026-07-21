@@ -17,12 +17,25 @@ Homeworkweek 3
 
 **ส่วนที่ 5 — การทำกราฟ เพื่อหาสมการ**
 
+### **แบบ Polynomial Fit 
+
+-**สมการ:** $y = 0.000127x^2 - 0.1212x + 51.03$
+**ค่าสัมประสิทธิ์การตัดสินใจ ($R^2$):** $0.9930$
 
 
 
+การทำ Calibration ในโค้ด
 
+// แปลงค่า ADC (raw) เป็น Lux ด้วยสมการ Polynomial 2nd Order
+float adc_val = (float)raw;
+float lux = (0.000127f * adc_val * adc_val) - (0.1212f * adc_val) + 51.03f;
 
+// ป้องกันกรณีค่า Lux ติดลบในสภาพแสงมืดมากๆ
+if (lux < 0.0f) {
+    lux = 0.0f;
+}
 
+printf("ADC Raw = %d, Calculated Lux = %.2f Lux\n", raw, lux);
 
 
 
